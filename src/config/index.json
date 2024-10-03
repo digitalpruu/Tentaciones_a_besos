@@ -64,12 +64,20 @@
       {
         "name": "Instagram",
         "description": "@tentacionesabesos",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url": ""
       },
       {
         "name": "Facebook",
         "description": "Tentaciones ABesos",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/facebook.jpg",
+        "url": "https://www.facebook.com/share/JxLBtDpBZnjmPPpX/?mibextid=qi2Omg"
+      },
+      {
+        "name": "Tiktok",
+        "description": "@angbibisilva",
+        "icon": "/assets/images/tiktok.png",
+        "url": "https://www.tiktok.com/@angbibisilva?_t=8q1kwmRK3E5&_r=1"
       }
     ]
   },
