@@ -1,5 +1,6 @@
-import React from 'react';
-import config from '../config/index.json';
+import React from 'react';  // First group: External dependencies
+
+import config from '../config/index.json';  // Second group: Internal files
 
 const Features = () => {
   const { features } = config;
