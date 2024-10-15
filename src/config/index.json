@@ -18,10 +18,10 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Tentaciones",
-    "subtitle": "a besos.",
-    "description": "TENTACIONES A BESOS consiente su paladar ",
-    "img": "/assets/images/1.png",
+    "title": "Título",
+    "subtitle": "Subtítulo.",
+    "description": "Descripción",
+    "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
@@ -37,12 +37,12 @@
       {
         "title": "Productos",
         "description": "En Tentaciones a Besos, cada bocado es una declaración de amor al buen gusto. Nos dedicamos a la creación de postres y panes que enamoran por su sabor y presentación.",
-        "img": "/assets/images/2.png"
+        "img": "/assets/images/product1.jpg"
       },
       {
         "title": "Servicio",
         "description": "Creemos en consentir a nuestros clientes con productos de alta calidad, elaborados con los mejores ingredientes y una dosis extra de cariño.",
-        "img": "/assets/images/logo.png"
+        "img": "/assets/images/product2.jpg"
       }
     ]
   },
